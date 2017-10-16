@@ -1,6 +1,6 @@
-# RövarSpråket
+y# RövarSpråket
 
-This highly useful module can be used to translate any kind of text into Rövarspråket.
+This somewhat useful module can be used to translate any kind of text into Rövarspråket — a Swedish specialty.
 
 Check out the example.py for some deeply advance fetures.
 
